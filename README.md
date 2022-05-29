@@ -1,6 +1,9 @@
 # TicTac
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+I have hosted using firebase.
+get the link below:
+https://tic-tac-toe-a24d8.web.app
 
 ## Development server
 
